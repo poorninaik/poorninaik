@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new coding languages
 - 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on javascript/react/vue related topics
-- 📫 poorninaik@yahoo.co.in
+- 📫 naikintech@gmail.com
 - [Resume](https://drive.google.com/file/d/1TZ8ELCUdxZVDbJaTlvTP7CyroB14aYXX)
 <!---
 poorninaik/poorninaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
