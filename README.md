@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poorninaik
 - 👀 I’m currently improvising on my DS & Algo skills
-- 🌱 also learning python
+- 🌱 also learning reactjs
 - 💞️ I’m looking to collaborate on javascript/react related topics
 - 📫 naikintech@gmail.com
 - LinkedIn: https://linkedin.com/in/poornimanaik
