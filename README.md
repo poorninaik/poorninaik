@@ -2,7 +2,7 @@
 - 👀 I’m currently improvising on my DS & Algo skills
 - 🌱 also learning reactjs
 - 💞️ I’m looking to collaborate on javascript/react related topics
-- 📫 naikintech@gmail.com
+- 📫 
 - LinkedIn: https://linkedin.com/in/poornimanaik
 - [Resume](https://drive.google.com/file/d/1TZ8ELCUdxZVDbJaTlvTP7CyroB14aYXX)
 <!---
